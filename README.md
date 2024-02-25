@@ -1,2 +1,2 @@
 # IPD
-This is a using deep learning and various image processing technologies to automatically detect illegal parking systems in Taiwan.
+This is a automatically detect illegal parking systems in Taiwan by deep learning and various image processing technologies.
